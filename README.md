@@ -2,10 +2,10 @@
 
 
 # Power BI
-| Project | Description | Tools |
+| Project Link | Project Description | Dashboard Link |
 |---------|-------------|-------|
 
 
 # Python
-| Project | Description | Tools |
+| Project Link | Project Description | Libraries |
 |---------|-------------|-------|
