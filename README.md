@@ -1,6 +1,10 @@
 # Portfolio-Guide
 Welcome to my data portfolio! Here, I document a summary of some of my projects in the data field.
 
+## 📚 Table of Contents
+- [Power BI](https://github.com/maryamzarin/Portfolio-Guide?tab=readme-ov-file#power-bi)
+- [Python](https://github.com/maryamzarin/Portfolio-Guide?tab=readme-ov-file#python)
+
 # Power BI
 | Data Link | Project Description | Dashboard Link |
 |---------|-------------|-------|
