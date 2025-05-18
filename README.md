@@ -2,7 +2,7 @@
 Welcome to my data portfolio! Here, I document a summary of some of my projects in the data field.
 
 # Power BI
-| Project Link | Project Description | Dashboard Link |
+| Data Link | Project Description | Dashboard Link |
 |---------|-------------|-------|
 | [📱Students' Social Media Addiction](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download)| Analysing the relationship between social media usage and mental health, academic performace, relationship status and most used apps with students from a range of ages across the world | [Dashboard](-)
 
