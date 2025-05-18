@@ -1,5 +1,5 @@
 # Portfolio-Guide
-Welcome to my data portfolio! Here I document a summary of some of my projects in the data field.
+Welcome to my data portfolio! Here, I document a summary of some of my projects in the data field.
 
 # Power BI
 | Project Link | Project Description | Dashboard Link |
